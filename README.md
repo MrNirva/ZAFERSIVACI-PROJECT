@@ -12,7 +12,7 @@ Sosyal Medya Çalışması
 <img src="https://github.com/MrNirva/ZAFERSIVACI-PROJECT/blob/main/ss/logo1.png" align="left" height="150" width="500" >
 
 <img src="https://github.com/MrNirva/ZAFERSIVACI-PROJECT/blob/main/ss/1.png" align="left" height="500" width="500" >
-<img src="https://github.com/MrNirva/ZAFERSIVACI-PROJECT/blob/main/ss/2.png" align="left" height="250" width="500" >
+<img src="https://github.com/MrNirva/ZAFERSIVACI-PROJECT/blob/main/ss/2.png" align="left" height="250" width="750" >
 <img src="https://github.com/MrNirva/ZAFERSIVACI-PROJECT/blob/main/ss/3.png" align="left" height="500" width="500" >
 <img src="https://github.com/MrNirva/ZAFERSIVACI-PROJECT/blob/main/ss/4.png" align="left" height="500" width="500" >
 <img src="https://github.com/MrNirva/ZAFERSIVACI-PROJECT/blob/main/ss/5.png" align="left" height="500" width="500" >
