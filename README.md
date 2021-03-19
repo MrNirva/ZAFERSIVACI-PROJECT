@@ -2,12 +2,13 @@
 Sigorta firması için kurumsal kimlik çalışması. Anlaştığımız sigorta şirketinin bilinirliğini ve güvenirliğini arttırmak. İnternet ortamında, müşteri kazanımında ve var olan müşteriyi elde tutmak amacıyla yapılan çalışmalardır. Firma sahibi ve müşterilerin teknolojiye adapte olarak hazırladığımız site ve otomasyon sisteminden faydalanmalarını sağlamak.
 
 Yapılan Çalışmalar
-Web Sitesi
-Chat Sistemi
-Mobil Uygulama
-Otomasyon Sistemi (İş Yeri Sahibi İçin)
-Logo ve Kartvizit Tasarımı
-Sosyal Medya Çalışması
+
+Web Sitesi<br/>
+Chat Sistemi<br/>
+Mobil Uygulama<br/>
+Otomasyon Sistemi (İş Yeri Sahibi İçin)<br/>
+Logo ve Kartvizit Tasarımı<br/>
+Sosyal Medya Çalışması<br/>
 
 <img src="https://github.com/MrNirva/ZAFERSIVACI-PROJECT/blob/main/ss/logo1.png" align="left" height="150" width="950" >
 
