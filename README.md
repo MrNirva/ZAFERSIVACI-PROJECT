@@ -1,7 +1,7 @@
 # ZAFERSIVACI-PROJECT
 Sigorta firması için kurumsal kimlik çalışması. Anlaştığımız sigorta şirketinin bilinirliğini ve güvenirliğini arttırmak. İnternet ortamında, müşteri kazanımında ve var olan müşteriyi elde tutmak amacıyla yapılan çalışmalardır. Firma sahibi ve müşterilerin teknolojiye adapte olarak hazırladığımız site ve otomasyon sisteminden faydalanmalarını sağlamak.
 
-Yapılan Çalışmalar
+**Yapılan Çalışmalar**
 
 Web Sitesi<br/>
 Chat Sistemi<br/>
